@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Abby Model",
+    "file": "Abby Model.glb",
+    "category": "People",
+    "subcategory": null,
+    "path": "People/Abby Model.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/People/Abby%20Model.glb",
+    "bytes": 4442588,
+    "size_mb": 4.2
+  },
+  {
+    "name": "Cole First Draft",
+    "file": "Cole First Draft.glb",
+    "category": "People",
+    "subcategory": null,
+    "path": "People/Cole First Draft.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/People/Cole%20First%20Draft.glb",
+    "bytes": 14020400,
+    "size_mb": 13.4
+  },
+  {
+    "name": "Jeremy First Draft",
+    "file": "Jeremy First Draft.glb",
+    "category": "People",
+    "subcategory": null,
+    "path": "People/Jeremy First Draft.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/People/Jeremy%20First%20Draft.glb",
+    "bytes": 11012296,
+    "size_mb": 10.5
+  },
+  {
+    "name": "Spenny First Draft",
+    "file": "Spenny First Draft.glb",
+    "category": "People",
+    "subcategory": null,
+    "path": "People/Spenny First Draft.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/People/Spenny%20First%20Draft.glb",
+    "bytes": 15254360,
+    "size_mb": 14.5
+  },
+  {
+    "name": "Beolab-28",
+    "file": "Beolab-28.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb",
+    "bytes": 83573800,
+    "size_mb": 79.7
+  },
+  {
+    "name": "Beosound 2",
+    "file": "Beosound 2.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beosound 2.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb",
+    "bytes": 10070464,
+    "size_mb": 9.6
+  },
+  {
+    "name": "Beosound_28.First",
+    "file": "Beosound_28.First.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb",
+    "bytes": 5893452,
+    "size_mb": 5.6
+  },
+  {
+    "name": "Beosound_28_Middle bit",
+    "file": "Beosound_28_Middle bit.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle bit.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle%20bit.glb",
+    "bytes": 71748088,
+    "size_mb": 68.4
+  },
+  {
+    "name": "Beosound_28_end bit",
+    "file": "Beosound_28_end bit.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_end bit.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_end%20bit.glb",
+    "bytes": 9108144,
+    "size_mb": 8.7
+  },
+  {
+    "name": "Rebranded_Todo",
+    "file": "Rebranded_Todo.glb",
+    "category": "Products",
+    "subcategory": "Todo-Bein",
+    "path": "Products/Todo-Bein/Rebranded_Todo.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Todo-Bein/Rebranded_Todo.glb",
+    "bytes": 9976776,
+    "size_mb": 9.5
+  },
+  {
+    "name": "BBC_TV",
+    "file": "BBC_TV.glb",
+    "category": "Projects",
+    "subcategory": "BBC",
+    "path": "Projects/BBC/BBC_TV.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/BBC/BBC_TV.glb",
+    "bytes": 13212796,
+    "size_mb": 12.6
+  },
+  {
+    "name": "BXR DOG",
+    "file": "BXR DOG.GLB",
+    "category": "Projects",
+    "subcategory": "BornXRaised",
+    "path": "Projects/BornXRaised/BXR DOG.GLB",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/BornXRaised/BXR%20DOG.GLB",
+    "bytes": 43012196,
+    "size_mb": 41.0
+  },
+  {
+    "name": "MAC_BOOK MOCK UP BRIGHT MARK",
+    "file": "MAC_BOOK MOCK UP BRIGHT MARK.glb",
+    "category": "Projects",
+    "subcategory": "Brightmark",
+    "path": "Projects/Brightmark/MAC_BOOK MOCK UP BRIGHT MARK.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/Brightmark/MAC_BOOK%20MOCK%20UP%20BRIGHT%20MARK.glb",
+    "bytes": 10011472,
+    "size_mb": 9.5
+  },
+  {
+    "name": "Inked-Magazine-Nyjah-Cover",
+    "file": "Inked-Magazine-Nyjah-Cover.glb",
+    "category": "Projects",
+    "subcategory": "Inked-Mag",
+    "path": "Projects/Inked-Mag/Inked-Magazine-Nyjah-Cover.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/Inked-Mag/Inked-Magazine-Nyjah-Cover.glb",
+    "bytes": 4917288,
+    "size_mb": 4.7
+  },
+  {
+    "name": "Travis-Scott",
+    "file": "Travis-Scott.glb",
+    "category": "Projects",
+    "subcategory": "Travis-Scott",
+    "path": "Projects/Travis-Scott/Travis-Scott.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/Travis-Scott/Travis-Scott.glb",
+    "bytes": 36761616,
+    "size_mb": 35.1
+  },
+  {
+    "name": "vhs-tape-vice",
+    "file": "vhs-tape-vice.glb",
+    "category": "Projects",
+    "subcategory": "Vice",
+    "path": "Projects/Vice/vhs-tape-vice.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/Vice/vhs-tape-vice.glb",
+    "bytes": 4750808,
+    "size_mb": 4.5
+  },
+  {
+    "name": "van_game_asset_watt",
+    "file": "van_game_asset_watt.glb",
+    "category": "Projects",
+    "subcategory": "Watt-integration",
+    "path": "Projects/Watt-integration/van_game_asset_watt.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Projects/Watt-integration/van_game_asset_watt.glb",
+    "bytes": 9665744,
+    "size_mb": 9.2
+  }
+]
