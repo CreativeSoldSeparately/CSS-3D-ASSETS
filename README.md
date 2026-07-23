@@ -17,7 +17,7 @@ A catalogue of `.glb` 3D models for use on the web. Every asset below has a stab
 </model-viewer>
 ```
 
-> **CDN note:** raw.githubusercontent.com serves all files (up to 100 MB) with permissive CORS. For a faster CDN you can swap the host for `https://cdn.jsdelivr.net/gh/CreativeSoldSeparately/CSS-3D-ASSETS@main/` — but jsDelivr rejects files over 50 MB, so **Beolab-28.glb** and **Beosound_28_Middle bit.glb** must stay on the raw URL.
+> **CDN note:** raw.githubusercontent.com serves all files (up to 100 MB) with permissive CORS. For a faster CDN swap the host for `https://cdn.jsdelivr.net/gh/CreativeSoldSeparately/CSS-3D-ASSETS@main/` — but jsDelivr rejects files over 50 MB, so these must stay on the raw URL: **Beolab-28.glb** (98.1 MB), **Beosound_28_Middle bit.glb** (68.4 MB).
 
 ## Asset catalogue
 
@@ -34,8 +34,8 @@ A catalogue of `.glb` 3D models for use on the web. Every asset below has a stab
 
 | Model | Size | Direct URL |
 |---|---|---|
-| `Beolab-28` | 79.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb) |
-| `Beosound 2` | 9.6 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb) |
+| `Beolab-28` | 98.1 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb) |
+| `Beosound 2` | 17.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb) |
 | `Beosound_28.First` | 5.6 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb) |
 | `Beosound_28_Middle bit` | 68.4 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle%20bit.glb) |
 | `Beosound_28_end bit` | 8.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_end%20bit.glb) |
