@@ -11,13 +11,15 @@ A catalogue of `.glb` 3D models for use on the web. Every asset below has a stab
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 
 <model-viewer
-  src="https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb"
+  src="https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb"
   camera-controls auto-rotate ar
   style="width:100%;height:500px">
 </model-viewer>
 ```
 
-> **CDN note:** raw.githubusercontent.com serves all files (up to 100 MB) with permissive CORS. For a faster CDN swap the host for `https://cdn.jsdelivr.net/gh/CreativeSoldSeparately/CSS-3D-ASSETS@main/` — but jsDelivr rejects files over 50 MB, so these must stay on the raw URL: **Beolab-28.glb** (98.1 MB), **Beosound_28_Middle bit.glb** (68.4 MB).
+> **CDN note:** raw.githubusercontent.com serves all files with permissive CORS. jsDelivr (`https://cdn.jsdelivr.net/gh/CreativeSoldSeparately/CSS-3D-ASSETS@main/`) is faster but rejects files over 50 MB, so these must use the raw URL: **Beosound_28_Middle bit.glb** (68.4 MB).
+
+Textures on `Beolab-28.glb` are WebP-compressed (`EXT_texture_webp`) with Draco geometry — supported by model-viewer, three.js, and Babylon.js.
 
 ## Asset catalogue
 
@@ -34,7 +36,7 @@ A catalogue of `.glb` 3D models for use on the web. Every asset below has a stab
 
 | Model | Size | Direct URL |
 |---|---|---|
-| `Beolab-28` | 98.1 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb) |
+| `Beolab-28` | 10.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb) |
 | `Beosound 2` | 17.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb) |
 | `Beosound_28.First` | 5.6 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb) |
 | `Beosound_28_Middle bit` | 68.4 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle%20bit.glb) |
