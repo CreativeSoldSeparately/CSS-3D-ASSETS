@@ -50,6 +50,36 @@
     "size_mb": 10.7
   },
   {
+    "name": "Beolab-28-Base",
+    "file": "Beolab-28-Base.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Base.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Base.glb",
+    "bytes": 2305512,
+    "size_mb": 2.2
+  },
+  {
+    "name": "Beolab-28-Tube",
+    "file": "Beolab-28-Tube.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Tube.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Tube.glb",
+    "bytes": 8142236,
+    "size_mb": 7.8
+  },
+  {
+    "name": "Beolab-28-Wood-Grill",
+    "file": "Beolab-28-Wood-Grill.glb",
+    "category": "Products",
+    "subcategory": "Bang-Olufsen",
+    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Wood-Grill.glb",
+    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Wood-Grill.glb",
+    "bytes": 820204,
+    "size_mb": 0.8
+  },
+  {
     "name": "Beosound 2",
     "file": "Beosound 2.glb",
     "category": "Products",
@@ -58,36 +88,6 @@
     "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb",
     "bytes": 18581300,
     "size_mb": 17.7
-  },
-  {
-    "name": "Beosound_28.First",
-    "file": "Beosound_28.First.glb",
-    "category": "Products",
-    "subcategory": "Bang-Olufsen",
-    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb",
-    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb",
-    "bytes": 5893452,
-    "size_mb": 5.6
-  },
-  {
-    "name": "Beosound_28_Middle bit",
-    "file": "Beosound_28_Middle bit.glb",
-    "category": "Products",
-    "subcategory": "Bang-Olufsen",
-    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle bit.glb",
-    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle%20bit.glb",
-    "bytes": 71748088,
-    "size_mb": 68.4
-  },
-  {
-    "name": "Beosound_28_end bit",
-    "file": "Beosound_28_end bit.glb",
-    "category": "Products",
-    "subcategory": "Bang-Olufsen",
-    "path": "Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_end bit.glb",
-    "url": "https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_end%20bit.glb",
-    "bytes": 9108144,
-    "size_mb": 8.7
   },
   {
     "name": "Rebranded_Todo",

@@ -13,13 +13,14 @@ A catalogue of `.glb` 3D models for use on the web. Every asset below has a stab
 <model-viewer
   src="https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb"
   camera-controls auto-rotate ar
-  style="width:100%;height:500px">
-</model-viewer>
+  style="width:100%;height:500px"></model-viewer>
 ```
 
-> **CDN note:** raw.githubusercontent.com serves all files with permissive CORS. jsDelivr (`https://cdn.jsdelivr.net/gh/CreativeSoldSeparately/CSS-3D-ASSETS@main/`) is faster but rejects files over 50 MB, so these must use the raw URL: **Beosound_28_Middle bit.glb** (68.4 MB).
+> **CDN note:** every asset is now under 50 MB, so you can use raw.githubusercontent.com or the faster jsDelivr CDN: `https://cdn.jsdelivr.net/gh/CreativeSoldSeparately/CSS-3D-ASSETS@main/<path>`.
 
-Textures on `Beolab-28.glb` are WebP-compressed (`EXT_texture_webp`) with Draco geometry — supported by model-viewer, three.js, and Babylon.js.
+### Beolab-28 set
+
+`Beolab-28.glb` and the three `Beolab-28-Exploded/` parts (**Base**, **Tube**, **Wood-Grill**) are uniformly optimised: **2048×2048 WebP** textures (`EXT_texture_webp`) with Draco-compressed geometry. They share a common origin and scale, so the exploded parts line up with each other and with the assembled model. Supported by model-viewer, three.js, and Babylon.js.
 
 ## Asset catalogue
 
@@ -37,10 +38,10 @@ Textures on `Beolab-28.glb` are WebP-compressed (`EXT_texture_webp`) with Draco 
 | Model | Size | Direct URL |
 |---|---|---|
 | `Beolab-28` | 10.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28.glb) |
+| `Beolab-28-Base` | 2.2 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Base.glb) |
+| `Beolab-28-Tube` | 7.8 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Tube.glb) |
+| `Beolab-28-Wood-Grill` | 0.8 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beolab-28-Wood-Grill.glb) |
 | `Beosound 2` | 17.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beosound%202.glb) |
-| `Beosound_28.First` | 5.6 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28.First.glb) |
-| `Beosound_28_Middle bit` | 68.4 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_Middle%20bit.glb) |
-| `Beosound_28_end bit` | 8.7 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Bang-Olufsen/Beolab-28-Exploded/Beosound_28_end%20bit.glb) |
 | `Rebranded_Todo` | 9.5 MB | [link](https://raw.githubusercontent.com/CreativeSoldSeparately/CSS-3D-ASSETS/main/Products/Todo-Bein/Rebranded_Todo.glb) |
 
 ### Projects
